@@ -13,7 +13,7 @@
 
 -- Breaking out PropertyAddress into Individual Columns (Address, City, State)
 
--- saame trask different approch
+-- same task different approch
 
 -----------------------------------------------------
 
