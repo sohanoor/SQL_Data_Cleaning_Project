@@ -1,5 +1,7 @@
 # sql_data_cleaning_project
 
+In this project I will be cleaning data in SQL.
+
 
 -----------------------------------------------------
 
